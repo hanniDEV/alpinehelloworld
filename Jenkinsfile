@@ -5,7 +5,7 @@ pipeline {
         IMAGE_TAG = "ajc-2.1"
         STAGING = "frazer-ajc-staging-env"
         PRODUCTION = "frazer-ajc-prod-env"
-        USERNAME = "sadofrazer"
+        USERNAME = "yamen78"
         CONTAINER_NAME = "alpinehelloworld"
     }
 
